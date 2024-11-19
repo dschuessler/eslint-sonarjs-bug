@@ -8,6 +8,7 @@ Reproducible example for https://community.sonarsource.com/t/eslint-plugin-sonar
 2. `npm run lint`
 
 Expected behavior: No error.
+
 Actual behavior:
 
 ```
