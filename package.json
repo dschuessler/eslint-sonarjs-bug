@@ -1,0 +1,15 @@
+{
+  "name": "eslint-sonarjs-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "eslint": "^9.13.0",
+    "eslint-plugin-sonarjs": "^2.0.4"
+  }
+}
